@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Paperboy</string>
+    <string name="no_internet">Please check internet connectivity.</string>
+    <string name="no_data">Sorry there is no news for this section at the moment.</string>
+    <string name="paperboy">paperboy</string>
+
+</resources>
